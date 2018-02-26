@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pbO8vOCJ2TSIwLqgizF5hg==
+SHA1-Digest: /RljGxl0aNY0Bbg+O4zaNUh5nEw=
+
+Name: content_scripts/prestafy.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IPg8SvuGWQB55lItcLE+6g==
+SHA1-Digest: o03R5kxZU4M4tZfwqMMe50YnQa0=
+
+Name: icons/cal-32-2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x0yOiSSO0Ky2RE8hoMlvJQ==
+SHA1-Digest: GGhaeyBWbNEm2WyKAFSzWttnsLE=
+
+Name: icons/cal-60-2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7KykFnkkjEP5+y5ZSMISug==
+SHA1-Digest: Yfuegan0L2PBjB2V48ZsUZW3uPc=
+
+Name: popup/choose_presta.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ve/8mN6k359AjEokLhG+Pg==
+SHA1-Digest: Wbmhucsx781wX4JkdubFV0mlcDs=
+
+Name: popup/choose_presta.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JsGUeM4fZdeoV3fVYWAgHQ==
+SHA1-Digest: fxu58i1wOlWweAb6rc1b89es+vw=
+
+Name: popup/choose_presta.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i5FaO2B7VRMtyMrthZ1BXw==
+SHA1-Digest: cEKLeGgdi8UkWnchTYNWy917u+c=
+
